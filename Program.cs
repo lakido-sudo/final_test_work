@@ -12,4 +12,27 @@ void array(string [] stringArray)
   }
 }
 
+//Подсчет количества элементов массива с тремя и менее символами,
+//после создается массив, в который они добавляются .
+string [] symbol(string [] stringArray)
+{
+  int n = 0;
+  for (int i = 0;i<stringArray.Length;i++)
+  {
+    if(stringArray[i].Length <=3)
+    n++;
+  }
+  string [] rez = new string [n];
+  int j = 0;
+  for (int i = 0;i<stringArray.Length;i++)
+  {
+    if(stringArray[i].Length <=3)
+    {
+        rez[j] = stringArray[i];
+        j++;
+    }
+  }
+  return rez;
+}
+
 
