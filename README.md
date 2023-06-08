@@ -5,4 +5,4 @@
 Исользовать массив.
 
 Блок схема:
-![Block](file:///home/lakido/1.png)
+![Block](img/1.png)
