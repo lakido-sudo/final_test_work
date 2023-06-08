@@ -1,0 +1,15 @@
+/home/lakido/Учеба/final_test_work/final_test_work/obj/Debug/net6.0/final_test_work.csproj.AssemblyReference.cache
+/home/lakido/Учеба/final_test_work/final_test_work/obj/Debug/net6.0/final_test_work.GeneratedMSBuildEditorConfig.editorconfig
+/home/lakido/Учеба/final_test_work/final_test_work/obj/Debug/net6.0/final_test_work.AssemblyInfoInputs.cache
+/home/lakido/Учеба/final_test_work/final_test_work/obj/Debug/net6.0/final_test_work.AssemblyInfo.cs
+/home/lakido/Учеба/final_test_work/final_test_work/obj/Debug/net6.0/final_test_work.csproj.CoreCompileInputs.cache
+/home/lakido/Учеба/final_test_work/final_test_work/bin/Debug/net6.0/final_test_work
+/home/lakido/Учеба/final_test_work/final_test_work/bin/Debug/net6.0/final_test_work.deps.json
+/home/lakido/Учеба/final_test_work/final_test_work/bin/Debug/net6.0/final_test_work.runtimeconfig.json
+/home/lakido/Учеба/final_test_work/final_test_work/bin/Debug/net6.0/final_test_work.dll
+/home/lakido/Учеба/final_test_work/final_test_work/bin/Debug/net6.0/ref/final_test_work.dll
+/home/lakido/Учеба/final_test_work/final_test_work/bin/Debug/net6.0/final_test_work.pdb
+/home/lakido/Учеба/final_test_work/final_test_work/obj/Debug/net6.0/final_test_work.dll
+/home/lakido/Учеба/final_test_work/final_test_work/obj/Debug/net6.0/ref/final_test_work.dll
+/home/lakido/Учеба/final_test_work/final_test_work/obj/Debug/net6.0/final_test_work.pdb
+/home/lakido/Учеба/final_test_work/final_test_work/obj/Debug/net6.0/final_test_work.genruntimeconfig.cache
