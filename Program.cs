@@ -33,6 +33,7 @@ string [] symbol(string [] stringArray)
     }
   }
   return rez;
+}
 
 //Вывод на экран.
 void printA(string [] stringArray)
@@ -49,7 +50,4 @@ array(stringArray);
 printA(symbol(stringArray));
 
 	
-
-
-
 
